@@ -1,0 +1,5 @@
+# Ignore everything but .c files in the c directory
+c/*
+!c/*.c
+
+.vstags
